@@ -1,0 +1,10 @@
+malloc()
+calloc()
+realloc()
+free()
+
+fseek
+ftell
+exit()
+rewind()
+fwrite()

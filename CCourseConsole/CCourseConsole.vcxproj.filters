@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Main">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Main\Other">
+      <UniqueIdentifier>{1f1bd1e8-d683-4365-9ef0-7037313a5d13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Main\PCH">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Work\Homework">
+      <UniqueIdentifier>{8c9a06bc-cc0b-435f-a2a6-a10f0e3e5b93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\Homework\GetInt">
+      <UniqueIdentifier>{c40069d0-02d8-4c76-96ca-69d1a1217e70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\Homework\Generate&amp;Sort Students">
+      <UniqueIdentifier>{f441527f-bea1-43c9-9e1f-b81403697fa5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\Homework\Generate&amp;Sort Students\Source">
+      <UniqueIdentifier>{27660ff5-ffad-40ab-8689-2bc6a0e2490c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\Homework\FuncArray">
+      <UniqueIdentifier>{aab37458-cf25-4f06-b8a2-f3d501755d03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\Homework\BackUp">
+      <UniqueIdentifier>{72a26104-359b-407e-98c7-55f9c718b050}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\Homework\MemoryGuard">
+      <UniqueIdentifier>{7cba382a-112d-47f6-bd99-89c265557989}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\Homework\TemplateClass">
+      <UniqueIdentifier>{6dd88423-2086-4eb2-85d3-fffade771660}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\Homework\8_Students">
+      <UniqueIdentifier>{5e9ebfd4-4091-4b88-9395-024e83cb36a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\Homework\8_Students\Person">
+      <UniqueIdentifier>{b6683776-9b0c-452e-b43b-c6c5bde13a4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\Homework\8_Students\Student">
+      <UniqueIdentifier>{e43e4f10-9053-4b82-9b4f-d32a2cf79688}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\Homework\8_Students\Proffesor">
+      <UniqueIdentifier>{b54eb395-4e55-4e8f-a57b-209765ae6040}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\Homework\Compare">
+      <UniqueIdentifier>{01662e0c-b36d-4746-a497-71db030d0cef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act">
+      <UniqueIdentifier>{7d5f9e21-62a0-4f05-b9a0-99dff9fd3297}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\10">
+      <UniqueIdentifier>{9ac3bcd7-ab4d-4ba6-aa8e-75ea22c447ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\10\Adapter">
+      <UniqueIdentifier>{dde60869-843f-48b6-8c29-850a27b227f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\11">
+      <UniqueIdentifier>{a5736fa5-04db-45b3-b069-91f5f8c3a6f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\11\list">
+      <UniqueIdentifier>{c2766391-c405-4242-a1d9-c3699a9fa2d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\9">
+      <UniqueIdentifier>{3433f674-54f6-4553-acf3-8b66539137d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\9\Abstract base class">
+      <UniqueIdentifier>{72793db5-f830-45a4-98a2-376756443db8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\9\Pattern Bridge">
+      <UniqueIdentifier>{d9b8536d-ec6b-45e5-bf2d-ec9a48add640}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\9\Pattern Bridge\I_Time">
+      <UniqueIdentifier>{b78a9407-e4a8-4f21-ab54-5129919176ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\9\Pattern Bridge\Clock">
+      <UniqueIdentifier>{717ee8e8-d37c-4f1f-af85-009d1aa09bc3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\9\Pattern Bridge\Format">
+      <UniqueIdentifier>{81894b93-26cd-4db2-84f4-d06bc4670053}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\8">
+      <UniqueIdentifier>{0fc05959-b895-4c2c-9143-146027c47471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\8\inheritance">
+      <UniqueIdentifier>{74ec790d-08d2-457f-ab95-4ba5ca2e3f0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\8\inheritance\Elf">
+      <UniqueIdentifier>{564b4c68-d415-4ab1-80ff-5aa6f830157d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\8\inheritance\Child">
+      <UniqueIdentifier>{6cf135c4-00d5-4010-817e-6f2636173faa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\8\inheritance\Player">
+      <UniqueIdentifier>{d6995be7-a929-4410-b2c7-4db3f8b78580}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\8\inheritance\Orc">
+      <UniqueIdentifier>{e0bbb7b1-9056-47f7-8918-685fe0becc65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\8\const_mutable">
+      <UniqueIdentifier>{97a689d0-f37d-417c-8c77-aa7bf770a274}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\7">
+      <UniqueIdentifier>{f223ef73-bf6c-441f-92eb-2121bcafe670}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\7\Singleton">
+      <UniqueIdentifier>{c4cbf73c-0b63-4d0b-9ac0-12a0f3800b77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\7\Structures">
+      <UniqueIdentifier>{fd4ef72f-d0e1-48c9-ad52-588b5ef819bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\7\Structures\List">
+      <UniqueIdentifier>{b59da09f-d693-4400-8a00-d63e542bf4e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\7\Structures\Binary Tree">
+      <UniqueIdentifier>{e5bb8821-dfd9-4b00-a358-ebc27ada2112}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\7\Structures\Stack">
+      <UniqueIdentifier>{0eaaa55a-f03d-40a4-a12e-1ca0d3103c7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\7\Structures\Queue">
+      <UniqueIdentifier>{19e962cd-6d39-430a-90de-5532f5d8129c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\6">
+      <UniqueIdentifier>{bdf1b8c2-7005-41e0-8c9d-7f63ac34289e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\6\Static_6">
+      <UniqueIdentifier>{786880f1-1668-4d46-aabe-3895bdaa2247}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\6\Static_6\Singleton">
+      <UniqueIdentifier>{90581002-2c37-429a-8d40-b05f41d17781}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\5">
+      <UniqueIdentifier>{7d728662-105f-4d24-b635-d9131babd630}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\5\Template_5">
+      <UniqueIdentifier>{86262153-ce0e-48bf-9ffc-3561bbfa4a36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\5\Template_5\Template">
+      <UniqueIdentifier>{f4e9b5ab-f994-46c8-94bf-5fab2936a3de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\4">
+      <UniqueIdentifier>{1e262841-d234-478c-a78b-fccfe055327a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\4\Operatorreloading_4">
+      <UniqueIdentifier>{22bc450d-3dbe-4bce-8443-a4cb9ac77338}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\4\Operatorreloading_4\OperatorReloading">
+      <UniqueIdentifier>{10a9e6cd-88da-4903-b6a7-75738e4ef48f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\3">
+      <UniqueIdentifier>{5d1b0828-ebd4-4fce-ab8f-2bfb5c8e7b32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\3\Friend_3">
+      <UniqueIdentifier>{c13e8cc2-dd3f-46ce-9c8f-841e62f1d4b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\3\Friend_3\A&amp;B">
+      <UniqueIdentifier>{7d8f2f0b-bdfa-43d8-bf39-4416ee28b134}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\3\Friend_3\A&amp;B\class A">
+      <UniqueIdentifier>{51c90b1e-d0ab-4e52-bc5b-e7201a021806}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\3\Friend_3\A&amp;B\class B">
+      <UniqueIdentifier>{acf93f16-5e53-4eb8-922a-54b0c62b233e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\3\Friend_3\A&amp;B\class C">
+      <UniqueIdentifier>{7f95ada0-fc62-47ba-90dc-1fc3d918c714}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\2">
+      <UniqueIdentifier>{1252671a-a700-439c-bef7-55da771b6628}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\2\ClassArray">
+      <UniqueIdentifier>{c615f8ec-9c24-4274-bf3c-5732360e4d7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Work\no_act\2\ClassArray\ArMult">
+      <UniqueIdentifier>{233491ce-031e-42a0-ad7a-da5114a066a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main\Defined">
+      <UniqueIdentifier>{34b7abf4-4a49-4883-b20b-cf9b88d1588c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="targetver.h">
+      <Filter>Main\PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Main\PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="GetInt.h">
+      <Filter>Work\Homework\GetInt</Filter>
+    </ClInclude>
+    <ClInclude Include="MemoryCheck.h">
+      <Filter>Main\Defined</Filter>
+    </ClInclude>
+    <ClInclude Include="Array.h">
+      <Filter>Work\no_act\2\ClassArray</Filter>
+    </ClInclude>
+    <ClInclude Include="A.h">
+      <Filter>Work\no_act\3\Friend_3\A&amp;B\class A</Filter>
+    </ClInclude>
+    <ClInclude Include="B.h">
+      <Filter>Work\no_act\3\Friend_3\A&amp;B\class B</Filter>
+    </ClInclude>
+    <ClInclude Include="FuncArray.h">
+      <Filter>Work\Homework\FuncArray</Filter>
+    </ClInclude>
+    <ClInclude Include="Conspect.h">
+      <Filter>Main\Other</Filter>
+    </ClInclude>
+    <ClInclude Include="BackUp.h">
+      <Filter>Work\Homework\BackUp</Filter>
+    </ClInclude>
+    <ClInclude Include="MemoryGuard.h">
+      <Filter>Work\Homework\MemoryGuard</Filter>
+    </ClInclude>
+    <ClInclude Include="ArrMult.h">
+      <Filter>Work\no_act\2\ClassArray\ArMult</Filter>
+    </ClInclude>
+    <ClInclude Include="PreDefined.h">
+      <Filter>Main\Defined</Filter>
+    </ClInclude>
+    <ClInclude Include="С.h">
+      <Filter>Work\no_act\3\Friend_3\A&amp;B\class C</Filter>
+    </ClInclude>
+    <ClInclude Include="Counter.h">
+      <Filter>Work\no_act\4\Operatorreloading_4\OperatorReloading</Filter>
+    </ClInclude>
+    <ClInclude Include="ArrayManager.h">
+      <Filter>Work\no_act\5\Template_5\Template</Filter>
+    </ClInclude>
+    <ClInclude Include="GaSStudents.h">
+      <Filter>Work\Homework\Generate&amp;Sort Students</Filter>
+    </ClInclude>
+    <ClInclude Include="Student.h">
+      <Filter>Work\Homework\Generate&amp;Sort Students</Filter>
+    </ClInclude>
+    <ClInclude Include="NamesBase.h">
+      <Filter>Work\Homework\Generate&amp;Sort Students</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>Work\no_act\6\Static_6\Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleLoger.h">
+      <Filter>Work\no_act\7\Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="Class.h">
+      <Filter>Work\no_act\8\const_mutable</Filter>
+    </ClInclude>
+    <ClInclude Include="List.h">
+      <Filter>Work\no_act\7\Structures\List</Filter>
+    </ClInclude>
+    <ClInclude Include="Tree.h">
+      <Filter>Work\no_act\7\Structures\Binary Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Stack.h">
+      <Filter>Work\no_act\7\Structures\Stack</Filter>
+    </ClInclude>
+    <ClInclude Include="Queue.h">
+      <Filter>Work\no_act\7\Structures\Queue</Filter>
+    </ClInclude>
+    <ClInclude Include="Elf.h">
+      <Filter>Work\no_act\8\inheritance\Elf</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseClass.h">
+      <Filter>Work\no_act\8\inheritance\Child</Filter>
+    </ClInclude>
+    <ClInclude Include="ChildClass.h">
+      <Filter>Work\no_act\8\inheritance\Child</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Work\no_act\8\inheritance\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Person.h">
+      <Filter>Work\Homework\8_Students\Person</Filter>
+    </ClInclude>
+    <ClInclude Include="CStudent.h">
+      <Filter>Work\Homework\8_Students\Student</Filter>
+    </ClInclude>
+    <ClInclude Include="Professor.h">
+      <Filter>Work\Homework\8_Students\Proffesor</Filter>
+    </ClInclude>
+    <ClInclude Include="Orc.h">
+      <Filter>Work\no_act\8\inheritance\Orc</Filter>
+    </ClInclude>
+    <ClInclude Include="I_Logger.h">
+      <Filter>Work\no_act\9\Abstract base class</Filter>
+    </ClInclude>
+    <ClInclude Include="Logger.h">
+      <Filter>Work\no_act\9\Abstract base class</Filter>
+    </ClInclude>
+    <ClInclude Include="CLogger.h">
+      <Filter>Work\no_act\9\Abstract base class</Filter>
+    </ClInclude>
+    <ClInclude Include="I_Time.h">
+      <Filter>Work\no_act\9\Pattern Bridge\I_Time</Filter>
+    </ClInclude>
+    <ClInclude Include="Clock.h">
+      <Filter>Work\no_act\9\Pattern Bridge\Clock</Filter>
+    </ClInclude>
+    <ClInclude Include="Civil.h">
+      <Filter>Work\no_act\9\Pattern Bridge\Format</Filter>
+    </ClInclude>
+    <ClInclude Include="Milit.h">
+      <Filter>Work\no_act\9\Pattern Bridge\Format</Filter>
+    </ClInclude>
+    <ClInclude Include="I_Stack.h">
+      <Filter>Work\no_act\10\Adapter</Filter>
+    </ClInclude>
+    <ClInclude Include="Adapter.h">
+      <Filter>Work\no_act\10\Adapter</Filter>
+    </ClInclude>
+    <ClInclude Include="TenPack.h">
+      <Filter>Work\no_act\10\Adapter</Filter>
+    </ClInclude>
+    <ClInclude Include="Quene.hpp">
+      <Filter>Work\no_act\7\Structures\Queue</Filter>
+    </ClInclude>
+    <ClInclude Include="ShowList.h">
+      <Filter>Work\no_act\11\list</Filter>
+    </ClInclude>
+    <ClInclude Include="Compare.h">
+      <Filter>Work\Homework\Compare</Filter>
+    </ClInclude>
+    <ClInclude Include="STL.h">
+      <Filter>Main\Other</Filter>
+    </ClInclude>
+    <ClInclude Include="Shop.h">
+      <Filter>Work\no_act\11\list</Filter>
+    </ClInclude>
+    <ClInclude Include="AbstractFactory.h">
+      <Filter>Work\no_act\11</Filter>
+    </ClInclude>
+    <ClInclude Include="Peoples.h">
+      <Filter>Work\no_act\11\list</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Main\PCH</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Array.cpp">
+      <Filter>Work\no_act\2\ClassArray</Filter>
+    </ClCompile>
+    <ClCompile Include="B.cpp">
+      <Filter>Work\no_act\3\Friend_3\A&amp;B\class B</Filter>
+    </ClCompile>
+    <ClCompile Include="BackUp.cpp">
+      <Filter>Work\Homework\BackUp</Filter>
+    </ClCompile>
+    <ClCompile Include="MemoryGuard.cpp">
+      <Filter>Work\Homework\MemoryGuard</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrMult.cpp">
+      <Filter>Work\no_act\2\ClassArray\ArMult</Filter>
+    </ClCompile>
+    <ClCompile Include="С.cpp">
+      <Filter>Work\no_act\3\Friend_3\A&amp;B\class C</Filter>
+    </ClCompile>
+    <ClCompile Include="A.cpp">
+      <Filter>Work\no_act\3\Friend_3\A&amp;B\class A</Filter>
+    </ClCompile>
+    <ClCompile Include="Counter.cpp">
+      <Filter>Work\no_act\4\Operatorreloading_4\OperatorReloading</Filter>
+    </ClCompile>
+    <ClCompile Include="Student.cpp">
+      <Filter>Work\Homework\Generate&amp;Sort Students\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="GaSStudents.cpp">
+      <Filter>Work\Homework\Generate&amp;Sort Students\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Singleton.cpp">
+      <Filter>Work\no_act\6\Static_6\Singleton</Filter>
+    </ClCompile>
+    <ClCompile Include="SingleLoger.cpp">
+      <Filter>Work\no_act\7\Singleton</Filter>
+    </ClCompile>
+    <ClCompile Include="Class.cpp">
+      <Filter>Work\no_act\8\const_mutable</Filter>
+    </ClCompile>
+    <ClCompile Include="Tree.cpp">
+      <Filter>Work\no_act\7\Structures\Binary Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Stack.cpp">
+      <Filter>Work\no_act\7\Structures\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseClass.cpp">
+      <Filter>Work\no_act\8\inheritance\Child</Filter>
+    </ClCompile>
+    <ClCompile Include="ChildClass.cpp">
+      <Filter>Work\no_act\8\inheritance\Child</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Work\no_act\8\inheritance\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Person.cpp">
+      <Filter>Work\Homework\8_Students\Person</Filter>
+    </ClCompile>
+    <ClCompile Include="CStudent.cpp">
+      <Filter>Work\Homework\8_Students\Student</Filter>
+    </ClCompile>
+    <ClCompile Include="Professor.cpp">
+      <Filter>Work\Homework\8_Students\Proffesor</Filter>
+    </ClCompile>
+    <ClCompile Include="Orc.cpp">
+      <Filter>Work\no_act\8\inheritance\Orc</Filter>
+    </ClCompile>
+    <ClCompile Include="Logger.cpp">
+      <Filter>Work\no_act\9\Abstract base class</Filter>
+    </ClCompile>
+    <ClCompile Include="CLogger.cpp">
+      <Filter>Work\no_act\9\Abstract base class</Filter>
+    </ClCompile>
+    <ClCompile Include="Clock.cpp">
+      <Filter>Work\no_act\9\Pattern Bridge\Clock</Filter>
+    </ClCompile>
+    <ClCompile Include="Civil.cpp">
+      <Filter>Work\no_act\9\Pattern Bridge\Format</Filter>
+    </ClCompile>
+    <ClCompile Include="Milit.cpp">
+      <Filter>Work\no_act\9\Pattern Bridge\Format</Filter>
+    </ClCompile>
+    <ClCompile Include="List.cpp">
+      <Filter>Main\PCH</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt">
+      <Filter>Main\Other</Filter>
+    </Text>
+    <Text Include="text.txt">
+      <Filter>Main\Other</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
